@@ -90,11 +90,11 @@ chapter:4
        var myprodect5;
        var fullName;
        illlegalways:
-      var 123name;   
-      var my-name;   
-      var alert;     
-      var user name; 
-      var @data;
+      // var 123name;   
+      // var my-name;   
+      // var alert;     
+      // var user name; 
+      // var @data;
       
       Question :4
       Done in Html
